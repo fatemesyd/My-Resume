@@ -1,0 +1,16 @@
+.first {
+    background-color: #0037ff57;
+    color: black;
+}
+
+.icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    margin: 10px;
+   
+}

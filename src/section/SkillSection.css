@@ -1,0 +1,10 @@
+.third{
+    background-color: turquoise;
+}
+
+.cards-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}

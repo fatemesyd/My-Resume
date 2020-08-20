@@ -1,0 +1,75 @@
+{
+    "title": "Hello I'm Fatemeh!",
+    "subtitle": "Front-end Dev | Open-source enthusiast",
+    "links":{
+        "github":"https://github.com/fatemesyd",
+        "twitter":"https://twitter.com/ftmsydi",
+        "medium":"https://medium.com/@ftmews",
+        "linkedin":"https://www.linkedin.com/in/fatemehsayadi/"
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items":[
+                
+                {
+                    "type": "p",
+                    "content": "I beleive in self-learning."
+                },
+                {
+                    "type":"p",
+                    "content":"I Build Things, I have created a few JavaScript and React libraries"
+                },
+                {
+                    "type": "p",
+                    "content": "When my dev senses kick-in I build presumably awesome stuff. I stay close to the community and try to keep tabs with the pace at which the web is evolving. I also like to blog what I learn."
+                }
+            ]
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/react.png",
+                        "title":"React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/javascript.png",
+                        "title":"Javascript"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/html.png",
+                        "title":"HTML"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/css.png",
+                        "title":"Css"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/python.png",
+                        "title": "Python"
+                    }
+                }
+            ]
+        }
+
+    ],
+    "icons":{
+        "down": "images/down.png",
+        "Up": "images/up.png"
+    }
+}
